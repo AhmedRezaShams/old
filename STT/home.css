@@ -1,0 +1,55 @@
+.container{
+    width: 100%;
+   height: 100vh;
+   background-color: grey;
+   
+}
+.head{
+   padding: 0.5rem 3rem;
+   align-content: center;
+   
+
+}
+.ifs{
+   padding: 1rem 1rem;
+   
+   background-color: rgb(6, 155, 39);
+   font-size: 2.5rem;
+   display: flex;
+   box-shadow:  0 0.5rem 3rem rgba(0,0,0,0.4);
+}
+
+
+
+.Flight{
+   padding: 1rem 1rem;
+   
+   background-color: skyblue;
+   font-size: 2.5rem;
+   display: flex;
+   box-shadow:  0 0.5rem 3rem rgba(0,0,0,0.4);
+}
+.Holiday{
+   padding: 1rem 1rem;
+   background-color: lightpink;
+   font-size: 2.5rem;
+box-shadow:  0 0.5rem 3rem rgba(0,0,0,0.4);	
+}
+.Ticket{
+   padding: 1rem 1rem;
+   background-color: lightblue;
+   font-size: 2.5rem;
+box-shadow:  0 0.5rem 3rem rgba(0,0,0,0.4);
+}
+.Current{
+padding: 1rem 1rem;
+   background-color: lightgreen;
+   font-size: 2.5rem;	
+   box-shadow:  0 0.5rem 3rem rgba(0,0,0,0.4);
+}
+.Contact{
+   padding: 1rem 1rem;
+   background-color: lightgrey;
+   font-size: 2.5rem;
+   box-shadow:  0 0.5rem 3rem rgba(0,0,0,0.4);
+}
